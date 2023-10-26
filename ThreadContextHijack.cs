@@ -1,5 +1,5 @@
 // x64 only Thread Context Hijacking in C#
-// the expample should be upgraded to DInvoke instead of P/Invoke, the is just for demo
+// the example should be upgraded to DInvoke instead of P/Invoke, the is just for demo
 // I DON'T KNOW IF THE RIP METHOD IN THE END WORKS OR NOT, IT JUST CAME TO MY HEAD 
 
 
